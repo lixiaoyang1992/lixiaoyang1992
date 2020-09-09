@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [my own wibsite](https://lixioayang.cn)
-- 🌱 I’m currently learning Math and Economy
+- 🔭 I’m currently working on [my own wibsite](https://lixiaoyang.cn)
+- 🌱 I’m currently learning English and SwiftUI
 
 <!--
 **lixiaoyang1992/lixiaoyang1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
